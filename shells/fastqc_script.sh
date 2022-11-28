@@ -1,0 +1,1 @@
+fastqc J2_A_paired.fq.gz J2_B_paired.fq.gz J2_C_paired.fq.gz Female_C_paired.fq.gz Male_C_paired.fq.gz Female_B_paired.fq.gz Male_A_paired.fq.gz Female_A_paired.fq.gz Male_B_paired.fq.gz 
